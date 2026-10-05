@@ -1,3 +1,23 @@
+---
+ctime: 2026-09-29
+mtime: 2026-10-05
+spdx: GPL-3.0-only
+title: CLAUDE.md
+description: >-
+  Claude Code's guide to this GitHub Action: what it applies, its commands,
+  architecture and conventions.
+tags:
+  - llm
+  - claude
+---
+
+<!--
+   -
+   - ~chewygumxx/sync-repo-metadata.git
+   - ::: :/.claude/CLAUDE.md
+   -
+   -->
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -32,3 +52,4 @@ As of v2, the metadata schema (`schema.json`) lives in this repo and is version-
 - Tabs/indentation: 4-space, `expandtab` (per the vim modelines).
 - License is GPL-3.0-only (see `LICENSE`); keep new files' SPDX headers consistent with that.
 
+<!-- vim:set expandtab shiftwidth=2 filetype=markdown foldlevel=3: -->
