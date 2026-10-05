@@ -144,7 +144,7 @@ There is no build step; `run.js` runs directly under Bun. To run the
 action's logic locally:
 
 ```sh
-# GITHUB_TOKEN needs Administration: write — see "Token permissions" above
+# GITHUB_TOKEN needs Administration: write; see "Token permissions" above
 GITHUB_TOKEN=token \
 GITHUB_REPOSITORY=owner/repo \
 GITHUB_API_URL=https://api.github.com \
