@@ -1,16 +1,22 @@
-<!-- vim:set expandtab shiftwidth=4 filetype=markdown: -->
-<!-- SPDX-License-Identifier: GPL-3.0-only -->
+---
+ctime: 2026-08-28
+mtime: 2026-10-05
+spdx: GPL-3.0-only
+title: sync-repo-metadata
+description: >-
+  [GitHub Action] Applies metadata to a repository according to its
+  .repo-metadata.jsonc
+tags:
+  - github-action
+  - github
+  - metadata
+---
 
 <!--
    -
    - ~chewygumxx/sync-repo-metadata.git
    - ::: :/README.md
    -
-   -->
-
-<!--
-   - [GitHub Action] Applies metadata to a repository according to
-   - :/.repo-metadata.jsonc
    -->
 
 # sync-repo-metadata
@@ -157,3 +163,5 @@ path.
 ## License
 
 [GNU General Public License v3.0 only](LICENSE)
+
+<!-- vim:set expandtab shiftwidth=4 filetype=markdown: -->
